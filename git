@@ -1,13 +1,13 @@
 git init
 git add .
-git commit -m 
+git commit
 git branch -M main
 git remote add origin https://github.com/AwsomeWorkDevoloper/SqGraph.git
 git push -u origin main
                 
 …or push an existing repository from the command line
 git add .
-git commit -m 
+git commit
 git branch -M main
 git remote add origin https://github.com/AwsomeWorkDevoloper/SqGraph.git
 git push -u origin main
